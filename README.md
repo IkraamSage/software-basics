@@ -1,1 +1,1 @@
-# software-basics
+# intro-python
